@@ -66,6 +66,7 @@ a {
 /*slider*/
 .container {
   padding: 20px;
+  width: 50%;
 }
 
 .main {
@@ -76,8 +77,8 @@ a {
 
 .slider-wrapper {
   position: relative;
-  max-width: 49%;
   margin: 0px;
+  width: 100%;
 }
 
 .slider {
