@@ -81,6 +81,20 @@ a {
   width: 100%;
 }
 
+@media (max-width: 767px) {
+  .text {
+    font-family: "Neue Haas Grotesk Display Pro", sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 2rem;
+  }
+
+  .container {
+    padding: 20px;
+    width: 100%;
+  }
+}
+
 .slider {
   position: relative;
   margin: 0px;
