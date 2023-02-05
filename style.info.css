@@ -93,6 +93,15 @@ img {
 }
 
 @media (max-width: 767px) {
+  .container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: space-between;
+  padding: 0px 20px 0px 20px;
+  margin-top: 10%;
+}
+  
   /* Description */
   .description {
     width: 100%;
