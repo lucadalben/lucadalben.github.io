@@ -133,7 +133,7 @@ a {
   font-style: italic;
 }
 
-/* Next and previous buttons */
+/* Next and previous buttons 
 .prev,
 .next {
   cursor: pointer;
@@ -148,7 +148,7 @@ a {
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
-}
+} */
 
 /* Position the "next button" to the right */
 .next {
